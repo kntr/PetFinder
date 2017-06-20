@@ -1,4 +1,4 @@
-package com.project.petFinder;
+package com.project.petFinder.Core;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.project.petFinder;
+package com.project.petFinder.Core;
 
 /**
  * Created by katherinetucto on 6/18/17.

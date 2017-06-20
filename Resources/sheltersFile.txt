@@ -1,0 +1,2 @@
+#name; street address, city, state, zipcode; phone number, description
+Berkeley Humane; 2700 Ninth Street, Berkeley, CA, 94710; (510) 845-3633; Berkeley Humane provides complete care for homeless animals, from rescue to rehabilitation to placement.

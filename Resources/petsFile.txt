@@ -1,0 +1,6 @@
+
+#type, breed, name, size, age, gender, booleanValue, city, shelter
+Dog, Poodle1, Happy1, small, young, male, false, San Diego, The Rescue House 1
+Cat, Poodle2, Happy2, small, young; male, true, San Diego, The Rescue House 2
+Bird, Poodle3, Happy3, small, young, male, true, San Diego, The Rescue House 3
+Cat, Poodle4, Happy4, small, young, male, false, San Diego, The Rescue House 4

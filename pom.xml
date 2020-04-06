@@ -6,7 +6,7 @@
  <properties>
         <aws.sdk.bom>1.11.277</aws.sdk.bom>
         <bean-utils.version>1.9.4</bean-utils.version>
-        <bouncycastle.version>1.60</bouncycastle.version>
+        <bouncycastle.version>1.65</bouncycastle.version>
         <cerberus.version>1.0-fb8d558</cerberus.version>
         <commons.lang.version>3.9</commons.lang.version>
         <jackson.version>2.9.9.3</jackson.version>

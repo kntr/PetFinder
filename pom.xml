@@ -8,7 +8,7 @@
         <bean-utils.version>1.9.4</bean-utils.version>
         <bouncycastle.version>1.60</bouncycastle.version>
         <cerberus.version>1.0-fb8d558</cerberus.version>
-        <commons.lang.version>3.9</commons.lang.version>
+        <commons.lang.version>3.11</commons.lang.version>
         <jackson.version>2.9.9.3</jackson.version>
         <jasypt.spring.boot.version>1.18</jasypt.spring.boot.version>
         <java.version>1.8</java.version>
